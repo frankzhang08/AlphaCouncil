@@ -207,7 +207,7 @@ const App: React.FC = () => {
         {state.status === AnalysisStatus.IDLE && (
            <div className="flex flex-col items-center justify-center mb-8 md:mb-16 animate-fade-in-up mt-4 md:mt-10">
               <h2 className="text-2xl md:text-5xl font-bold text-center text-white mb-4 md:mb-6 tracking-tight leading-tight">
-                多智能体股票分析决策系统<br />
+                小码网络-智能体股票分析决策系统<br />
                 <span className="text-lg md:text-3xl text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300 block mt-2 md:mt-4 font-normal">
                    Institutional Grade Multi-Agent System
                 </span>
