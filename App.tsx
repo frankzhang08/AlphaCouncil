@@ -181,7 +181,7 @@ const App: React.FC = () => {
               AC
             </div>
             <h1 className="text-base md:text-lg font-bold text-slate-100 tracking-tight whitespace-nowrap">
-              AlphaCouncil <span className="text-blue-500">AI</span>
+              小码网络 <span className="text-blue-500">AI</span>
             </h1>
           </div>
           <div className="flex items-center gap-2 md:gap-4">
